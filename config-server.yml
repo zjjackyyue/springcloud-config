@@ -20,7 +20,7 @@ eureka:
 ---
 
 server:
-  port:8201
+  port:8202
 ---
 
 spring:
