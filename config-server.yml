@@ -21,8 +21,7 @@ eureka:
 
 server:
   port:8202
----
-
+#spring的配置
 spring:
   profiles: test
   application:
